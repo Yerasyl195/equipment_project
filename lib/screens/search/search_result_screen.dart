@@ -4,7 +4,7 @@ import 'package:firebase_project/models/AvailableEquipment.dart';
 import 'package:firebase_project/models/SearchEquipments.dart';
 import 'package:firebase_project/screens/chat/chats_page.dart';
 import 'package:firebase_project/screens/details/equipment_details_screen.dart';
-import 'package:firebase_project/screens/home/components/available_doctors.dart';
+import 'package:firebase_project/screens/home/components/available_equipments.dart';
 import 'package:firebase_project/screens/home/components/recommended_equipments_card.dart';
 import 'package:firebase_project/screens/home/components/recommended_equipments.dart';
 import 'package:flutter/material.dart';

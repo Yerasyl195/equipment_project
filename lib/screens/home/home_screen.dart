@@ -4,7 +4,7 @@ import 'package:firebase_project/models/AvailableEquipment.dart';
 import 'package:flutter/material.dart';
 
 import '../../components/custom_app_bar.dart';
-import 'components/available_doctors.dart';
+import 'components/available_equipments.dart';
 import 'components/categories.dart';
 import 'components/recommended_equipments.dart';
 import 'package:firebase_storage/firebase_storage.dart';
